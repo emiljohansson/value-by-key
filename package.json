@@ -1,6 +1,6 @@
 {
   "name": "value-by-key",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns a string matching the key",
   "main": "index.js",
   "scripts": {
